@@ -1,0 +1,7 @@
+- title: Home
+  url: /
+- title: Technical Materials
+  url: /docs/technicalMaterial/
+  sublinks:
+    - title: Installation Guide
+      url: /docs/technicalMaterial/10.installationGuide.html

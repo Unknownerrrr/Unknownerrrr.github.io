@@ -1,0 +1,17 @@
+title: Technical Documentation
+description: Installation Guide and Technical Materials
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# 문서 경로 설정
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: default
+
+# 사이트 구조 설정
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
